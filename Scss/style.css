@@ -151,6 +151,10 @@ div.btn {
   height: 3.4rem;
 }
 
+.error-icon {
+  display: none;
+}
+
 .error {
   position: absolute;
   right: 4.7rem;
