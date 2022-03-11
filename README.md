@@ -13,6 +13,12 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ![](./design/desktop-design.jpg)
 
+#### For valid email-address
+![](./design/err.png)
+
+#### For invalid email-address
+![](./design/ver.png)
+
 ### Links
 
 - Solution URL: (https://github.com/Sonu-Dutta/Frontend-Base-Apparel-Coming-soon)
