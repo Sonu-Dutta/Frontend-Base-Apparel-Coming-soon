@@ -47,7 +47,7 @@ main {
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
-  padding: 2.4rem 6rem;
+  padding: 2.4rem 8rem;
 }
 
 div.text h1 {
@@ -166,7 +166,7 @@ div.btn {
 }
 
 .hero-img {
-  width: 60rem;
+  width: 66rem;
   height: 100vh;
 }
 
