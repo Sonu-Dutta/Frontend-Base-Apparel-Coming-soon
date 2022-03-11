@@ -24,6 +24,9 @@ sendBtn.addEventListener("click", function () {
   } else {
     errorMsg.style.display = "inline";
     errorMsg.style.color = "green";
+    errorMsg.style.position="relative";
+    errorMsg.style.top="2rem";
+    errorMsg.style.left="1rem";
     errorMsg.textContent = "Thank you for subscribing to our newsletter!";
     return timeoutFunc;
   }
